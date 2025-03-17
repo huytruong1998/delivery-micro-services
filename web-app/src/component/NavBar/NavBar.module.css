@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #378bd9;
+    padding: 5px 10px;
+  }
+  
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .searchContainer {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .searchInput {
+    width: 100%;
+    max-width: 400px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
